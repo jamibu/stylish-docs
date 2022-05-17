@@ -1,1 +1,1 @@
-for /r %%i in (.\to_convert\*) do (python ./src/convert_markdown.py %%i --title README)
+for /r %%i in (.\to_convert\*.md) do (python ./src/convert_markdown.py %%i --title README)
