@@ -103,7 +103,7 @@ All this does is add our markdown in the body of the file, set some styling to m
 
 ## The API
 
-The command line does allow you to set a different URL for the API that is used to compile the markdown, however, this requires the input and output format to be the same as the Github API. This main intention of this is to support different version of the API or allow users to write there own API.
+The command line does allow you to set a different URL for the API that is used to compile the markdown, however, this requires the input and output format to be the same as the Github API. This main intention of this is to support different version of the API or allow users to write their own API.
 
 ## A note on images
 
